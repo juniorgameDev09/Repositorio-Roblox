@@ -2,4 +2,4 @@
 primeiro teste Versionamento
 
 
-Repositorio de teste pois estou testando git e github
+Repositorio de teste pois estou testando git e GitHub
